@@ -1,0 +1,69 @@
+html{
+    background-color: lightgray;
+}
+body{
+    width: 800px;
+    height: 600px;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.inicio{
+    background-color: lightblue;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+.navegacion{
+    background-color: lightgreen;
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.noticias{
+    background-color: lightyellow;
+    height: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+.seccion{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 50px;
+
+}
+
+.noticiasdeportes{
+    background-color: lightcoral;
+    border: 1px lightcoral;
+    margin-bottom : 10px;
+
+}
+
+.noticiasentretenimiento{
+    background-color: lightsalmon;
+    border: lightsalmon;
+    margin-bottom: 10px;
+
+}
+
+.barralateral{
+    background-color: lightpink;
+    width: 200px;
+    padding: 10px;
+    margin-top: 30px; /* en la tarea pide un margen de 10px, yo le puse 30 px para ajustarlo bien */
+    height: 200px;
+
+}
+.piedepagina{
+    background-color: lightseagreen;
+    height: 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+
+}
